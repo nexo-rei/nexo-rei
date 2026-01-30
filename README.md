@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Nexo Rei
 
-<!--
-**nexo-rei/nexo-rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer with a strong focus on UI  
+⚡ Skilled in IT solutions  
+🎨 Passionate about clean design & functional interfaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages & Tools
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- UI/UX Fundamentals
+
+---
+
+## 📌 What I Do
+- Build responsive websites
+- Create clean and modern UI
+- Turn ideas into real projects
+
+---
+
+## 🔗 Connect with me
+- Instagram: https://instagram.com/programmer_nexo
