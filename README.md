@@ -151,6 +151,52 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ DEV QUOTE
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Great+design+is+invisible.+Bad+design+is+everywhere.&author=Nexo+Rei" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ VISITOR MAP
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/nexo-rei/count.svg" />
+
+<br/><br/>
+
+<img src="https://visitmap.vercel.app/api/badge/nexo-rei/default?color=FF0000&bg=000000" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ DEV JOKE
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&qColor=%23FF0000&aColor=%23ffffff&borderColor=%23FF0000&codeColor=%23FF0000" alt="Jokes Card" width="100%"/>
+
+</div>
+
+<br/>
+
 <!-- BOTTOM BANNER — same Black to Dark Red, mirrored -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:0d0d0d&height=130&section=footer" width="100%"/>
