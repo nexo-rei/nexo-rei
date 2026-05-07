@@ -1,137 +1,160 @@
 <div align="center">
 
-<!-- Artistic Paint Style Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Nexo%20Rei&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🎨%20Crafting%20Digital%20Art%20with%20Code&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<!-- TOP BANNER — Black to Dark Red gradient, perfectly matched -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:8B0000&height=200&section=header&text=NEXO%20REI&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%20Architect&descAlignY=58&descSize=16&descAlign=50&stroke=8B0000&strokeWidth=1" width="100%"/>
 
-<!-- Artistic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Painting+the+Web+One+Line+at+a+Time+🎨;Where+Code+Meets+Canvas+✨;Full-Stack+Developer+%26+UI+Artist+🖌️;Every+Pixel+Tells+a+Story+🌈" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=640&height=48&lines=Building+interfaces+that+cut+deep.;Clean.+Dark.+Dangerous.+%F0%9F%94%B4;Full-Stack+Developer+%7C+UI+Architect;Consistency+%3E+Perfection." alt="Typing SVG" />
 
 <br/>
 
-<!-- Artistic Badges -->
-<img src="https://img.shields.io/badge/🎨_Artist-Developer-FF6B9D?style=for-the-badge&labelColor=2D1B69" />
+![](https://img.shields.io/badge/STATUS-ACTIVE-FF0000?style=for-the-badge&labelColor=000000)
 &nbsp;
-<img src="https://img.shields.io/badge/🖌️_Brush-Strokes_in_Code-A855F7?style=for-the-badge&labelColor=2D1B69" />
+![](https://img.shields.io/badge/FOCUS-UI_%2F_FULLSTACK-white?style=for-the-badge&labelColor=000000)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=nexo-rei&style=for-the-badge&color=FF6B9D&label=Canvas+Views" />
+![](https://komarev.com/ghpvc/?username=nexo-rei&style=for-the-badge&color=FF0000&labelColor=000000&label=VISITORS)
 
 </div>
 
----
+<!-- RED DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=1&section=header" width="80%"/>
-</div>
+<br/>
 
-## 🖌️ The Artist Behind the Screen
+## ◈ WHO AM I
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius: 20px;" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" />
 
-```javascript
-const nexoRei = {
-  name     : "Nexo Rei",
-  role     : "Full-Stack Developer & UI Artist",
-  palette  : ["HTML", "CSS", "JavaScript", "React"],
-  canvas   : "The entire Web 🌐",
-  style    : "Clean · Modern · Expressive",
-  collab   : true,
-  motto    : "Every pixel is a brushstroke 🎨"
-};
+```
+  NAME     →  Nexo Rei (Prakash Jagtap)
+  ROLE     →  Full-Stack Developer
+  STYLE    →  Clean · Bold · Minimal
+  STACK    →  HTML CSS JS React Node
+  DESIGN   →  UI/UX · Figma · Ps · Ai
+  STATUS   →  Open to Work & Collabs
+  MOTTO    →  Consistency > Perfection
 ```
 
-> *"I don't just write code — I paint experiences."*
+> *"Great design is invisible. Bad design is everywhere."*
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
 
-## 🎨 My Color Palette (Tech Stack)
+<br/>
+
+## ◈ TECH STACK
 
 <div align="center">
 
-### 🖼️ Frontend — The Canvas
+**— FRONTEND —**
 <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark&perline=5" />
 
-### 🎭 Backend — The Frame
+**— BACKEND & DATABASE —**
 <img src="https://skillicons.dev/icons?i=nodejs,python,mysql&theme=dark&perline=5" />
 
-### 🖌️ Tools — The Brushes
+**— TOOLS —**
 <img src="https://skillicons.dev/icons?i=git,github,photoshop,illustrator&theme=dark&perline=5" />
 
 </div>
 
----
+<br/>
 
-## 📊 The Gallery (GitHub Stats)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nexo-rei&show_icons=true&theme=tokyonight&border_radius=16&title_color=FF6B9D&icon_color=A855F7&bg_color=0d1117&border_color=FF6B9D&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nexo-rei&show_icons=true&theme=dark&border_radius=6&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexo-rei&layout=compact&theme=tokyonight&border_radius=16&title_color=FF6B9D&bg_color=0d1117&border_color=A855F7" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexo-rei&layout=compact&theme=dark&border_radius=6&title_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nexo-rei&theme=tokyonight&border_radius=16&ring=FF6B9D&fire=A855F7&currStreakLabel=FF6B9D&sideLabels=A855F7&border=FF6B9D&background=0d1117" width="58%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nexo-rei&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&border=FF0000&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="56%"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 Trophies on the Wall
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nexo-rei&theme=dracula&no-frame=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nexo-rei&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" />
 </div>
 
----
+<br/>
 
-## 🌊 The Brushstroke Trail (Activity)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ ACTIVITY
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexo-rei&theme=dracula&hide_border=true&area=true&color=FF6B9D&line=A855F7&point=ffffff&bg_color=0d1117" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexo-rei&bg_color=000000&color=FF0000&line=FF0000&point=ffffff&area=true&hide_border=false&border_color=FF0000" width="96%"/>
 </div>
 
----
+<br/>
 
-## 🖼️ Featured Artworks (Projects)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ PROJECTS
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nexo-rei&repo=portfolio&theme=tokyonight&border_radius=12&title_color=FF6B9D&icon_color=A855F7&bg_color=0d1117&border_color=FF6B9D)](https://github.com/nexo-rei/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nexo-rei&repo=portfolio&theme=dark&border_radius=6&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000)](https://github.com/nexo-rei/portfolio)
 &nbsp;
-[![UI Projects](https://github-readme-stats.vercel.app/api/pin/?username=nexo-rei&repo=ui-projects&theme=tokyonight&border_radius=12&title_color=FF6B9D&icon_color=A855F7&bg_color=0d1117&border_color=FF6B9D)](https://github.com/nexo-rei/ui-projects)
+[![UI Projects](https://github-readme-stats.vercel.app/api/pin/?username=nexo-rei&repo=ui-projects&theme=dark&border_radius=6&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=000000&border_color=FF0000)](https://github.com/nexo-rei/ui-projects)
 
 </div>
 
----
+<br/>
 
-## 🌸 Find Me in the Gallery
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
+
+<br/>
+
+## ◈ CONNECT
 
 <div align="center">
 
 <a href="https://instagram.com/programmer_nexo">
-  <img src="https://img.shields.io/badge/Instagram-@programmer__nexo-FF6B9D?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-@programmer__nexo-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
 <a href="https://github.com/nexo-rei">
-  <img src="https://img.shields.io/badge/GitHub-nexo--rei-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69" />
+  <img src="https://img.shields.io/badge/GITHUB-nexo--rei-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
 </a>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/nexo-rei/nexo-rei/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=1" width="100%"/>
 
 <br/>
 
-<!-- Closing Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+## ◈ CONTRIBUTION SNAKE
 
-*🎨 Painted with passion · Every commit is a stroke · The web is my canvas*
+<div align="center">
+<img src="https://raw.githubusercontent.com/nexo-rei/nexo-rei/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
+<br/>
+
+<!-- BOTTOM BANNER — same Black to Dark Red, mirrored -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:0d0d0d&height=130&section=footer" width="100%"/>
+
+![](https://img.shields.io/badge/RED%20·%20BLACK%20·%20WHITE-NEXO__REI-FF0000?style=flat-square&labelColor=000000)
 
 </div>
