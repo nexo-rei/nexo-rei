@@ -159,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Great+design+is+invisible.+Bad+design+is+everywhere.&author=Nexo+Rei" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="100%"/>
 
 </div>
 
@@ -169,15 +169,15 @@
 
 <br/>
 
-## ◈ VISITOR MAP
+## ◈ VISITORS
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/nexo-rei/count.svg" />
+![](https://komarev.com/ghpvc/?username=nexo-rei&style=for-the-badge&color=FF0000&labelColor=000000&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<img src="https://visitmap.vercel.app/api/badge/nexo-rei/default?color=FF0000&bg=000000" />
+![](https://img.shields.io/badge/THANKS_FOR_VISITING-❤️-FF0000?style=for-the-badge&labelColor=000000)
 
 </div>
 
