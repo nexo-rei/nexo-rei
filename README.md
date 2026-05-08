@@ -201,6 +201,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:0d0d0d&height=130&section=footer" width="100%"/>
 
-![](https://img.shields.io/badge/RED%20·%20BLACK%20·%20WHITE-NEXO__REI-FF0000?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/%20·%20%20·%20NEXO__REI-FF0000?style=flat-square&labelColor=000000)
 
 </div>
